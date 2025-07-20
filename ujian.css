@@ -1,0 +1,22 @@
+.nav{
+    background-color: blue;
+    padding: 30px;
+    padding-right: 5%;
+}
+a{
+    color: aliceblue;
+}
+
+.footer{
+    background-color: blue;
+    padding: 30px;
+    margin-top: 100%;
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
